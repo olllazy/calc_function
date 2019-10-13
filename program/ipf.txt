@@ -1,0 +1,26 @@
+
+<html> <h1><b> <font color ="blue"> Функция обратной пропорциональности </b> </h1>  
+<p aling="justify"> 
+Функция обратной пропорциональности – это функция, <br> которую можно задать  формулой </p>
+  <p align="center"> <font color ="blue"> <b>y = k/x </b> <font color ="black">,</p> 
+ <p aling="justify">
+где k &ne; 0.  </p> 
+<br> 
+<p>Примеры функций типа «y = k/x» : 
+<br>1. y = 1/x 
+<br>2. y = -0.25/x 
+<br>3. y = 5/7x </p> 
+<br> 
+<p>Графиком функции обратной пропорциональности является <br><b> гипербола</b>.</p> 
+<br> 
+<p>Свойства функции <font color ="maroon"><b><i> y = k/x </i></b></font>:</p>    
+<p>1. D(f) = <font color ="maroon">(-&infin;; 0 )U( 0; +&infin;)</font>; </p>   
+<p>2. E(f) = <font color ="maroon">(-&infin;; 0 )U( 0; +&infin;)</font>, </p>   
+<p>3. Функция <font color = "maroon"><i>нечётная </i></font>; </p>   
+<p>4. Нулей функции <font color ="maroon"><i>не существует</i></font> ; </p>   
+<p>5. Монотонность:
+<br>при k &lt 0 <font color ="maroon"><i>возрастает</i></font> на всей области определения, 
+<br>при k > 0 <font color ="maroon"><i>убывает</i></font> на всей области определения; </p>   
+<p>6.<font color ="maroon"><i> Не ограничена</i></font> ни сверху, ни снизу; </p>   
+<p>7. Нет ни наименьшего, ни наибольшего значений; </p>   
+<p>8. Претерпевает разрыв в точке <font color ="maroon">x = 0</font>.</p> 

@@ -1,0 +1,41 @@
+
+<html> <h1><b> <font color ="blue"> Линейная функция </b> </h1>  
+<p aling="justify"> 
+Линейная функция – это функция, которую можно задать <br> формулой </p>
+  <p align="center"> <font color ="blue"> <b> y = kx + m </b> <font color ="black">,</p> 
+ <p aling="justify">
+где x – независимая переменная, k и m – некоторые числа. </p>
+ <br>
+ <p aling="justify"> 
+Вместо «k» и «m» могут стоять любые числа (положительные,
+<br> отрицательные или дроби). </p> 
+<br> 
+<p aling="justify">
+Коэффициент <font color ="blue"><b>k</b></font> в формуле  линейной функции называется <br> <i>угловым коэффициентом</i>. 
+<br> Угловой коэффициент определяет угол между графиком
+<br> линейной функции  и положительным направлением 
+<br>оси абсцисс.</p> 
+<br> 
+<p>Примеры функций типа «y = kx + m» : 
+<br>1. y = 0,5x - 2 
+<br>2. y = -2x + 1 
+<br>3. y = 0,7x </p> 
+<br> 
+<p>Графиком линейной функции является <b>прямая</b>.</p>
+ <br> 
+<p>Частный случай <font color ="blue"> <b>m = 0</b></font> линейной функции  называется 
+<br> <i>однородными</i> линейными функциями, в отличие от  <font color ="blue"> <b>m &ne; 0</b></font>  —<i><br>  неоднородных</i> линейных функций.</p> 
+<br> 
+<p>Свойства линейной функции <font color ="maroon"><b><i> y = kx + m </i></b></font>:</p>    
+<p>1. D(f) = <font color ="maroon">(-&infin;; +&infin;)</font>; </p>   
+<p>2. E(f) = <font color ="maroon">(-&infin; ;+&infin;)</font>; </p>   
+<p>3. Если <font color ="maroon">m = 0</font>, то функция <font color "maroon"> <i>нечётная </i> </font>; </p>   
+<p>4. Нули функции: 
+<br><font color ="maroon">y = 0</font> при <font color ="maroon">x = -b/k</font>, 
+<br><font color ="maroon">x = 0</font> при <font color ="maroon">y = b</font>; </p>   
+<p>5. Монотонность: 
+<br> а) <font color ="maroon"><i>возрастает</i></font>, если <font color ="maroon">k > 0</font>, 
+<br> б) <font color ="maroon"><i>убывает</i></font>, если <font color ="maroon"> k &lt 0 </font>; </p>   
+<p>6. <font color ="maroon"><i>Не ограничена</i></font> ни сверху, ни снизу; </p>   
+<p>7. Нет ни наибольшего, ни наименьшего значений; </p>   
+<p>8. Непрерывна на множестве <font color ="maroon">(-&infin;; +&infin;)</font>.</p> 

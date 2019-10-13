@@ -1,0 +1,26 @@
+
+<html> <h1><b> <font color ="blue"> Квадратичная функция </b> </h1>  
+<p aling="justify"> 
+Квадратичная функция – это функция, которую можно задать <br> формулой </p>
+  <p align="center"> <font color ="blue"> <b>y = ax&sup2 + bx + c </b> <font color ="black">,</p> 
+ <p aling="justify">
+где a &ne; 0, b, c - любые действительные числа.  </p> 
+<br> 
+<p>Примеры функций типа «ax&sup2 +bx + c» : 
+<br>1. y = x&sup2 + 0,5x - 2 
+<br>2. y = -3x&sup2 + 1 
+<br>3. y = -x&sup2 + x </p> 
+<br> 
+<p>Графиком квадратичной функции является <b> парабола</b>, вершина<br> которой находится в точке</p>
+<p align="center"> <b> (-b/2a; -(b&sup2 - 4ac)/4a) </b></p> 
+<br> 
+<p>Свойства квадратичной функции <font color ="maroon"><b><i> y = x&sup2 </i></b></font>:</p>    
+<p>1. D(f) = <font color ="maroon">(-&infin;; +&infin;)</font>; </p>   
+<p>2. E(f) = <font color ="maroon">[0; +&infin;)</font>, </p>   
+<p>3. Функция <font color = "maroon"><i>чётная </i></font>; </p>   
+<p>4. Нули функции: <font color ="maroon">y = 0</font> при <font color ="maroon">x = 0</font> ; </p>   
+<p>5. Монотонность: <font color ="maroon"><i>убывает</i></font> на <font color ="maroon">(-&infin;; 0]</font>, <font color ="maroon"><i>возрастает</i></font> на <font color ="maroon">[0; +&infin;)</font>; </p>   
+<p>6. Ограничена <font color ="maroon"><i>снизу</i></font>; </p>   
+<p>7. <font color ="maroon">у наим. = 0</font>,
+<br> у наиб., х наим. и х наиб. <font color ="maroon"><i>не существуют</i></font>; </p>   
+<p>8. <font color ="maroon"><i>Непрерывна</i></font> на всей области определения.</p> 

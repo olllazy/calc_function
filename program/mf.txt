@@ -1,0 +1,21 @@
+
+<html> <h1><b> <font color ="blue"> Функция модуля числа </b> </h1>  
+<p aling="justify"> 
+Функция модуля числа – это функция, которую можно задать <br> формулой </p>
+  <p align="center"> <font color ="blue"> <b> y = k|x| </b> <font color ="black">.</p> 
+ <br>
+<p aling="justify">
+Коэффициент <font color ="blue"><b>k</b></font> в формуле называется  <i>угловым <br> коэффициентом</i>. 
+<br> Угловой коэффициент определяет угол между графиком
+<br> функции, находящимся в первой четверти, и положительным <br>направлением оси абсцисс.</p> 
+<br> 
+<p>Свойства функции <font color ="maroon"><b><i> y = |x| </i></b></font>:</p>    
+<p>1. D(f) = <font color ="maroon">(-&infin;; +&infin;)</font>; </p>   
+<p>2. E(f) = <font color ="maroon">[0 ;+&infin;)</font>; </p>   
+<p>3. Функция <font color "maroon"> <i>чётная </i> </font>; </p>   
+<p>4. Нули функции: <font color ="maroon">y = 0</font> при <font color ="maroon">x = 0</font> ; </p>   
+<p>5. Монотонность: <font color ="maroon"><i>убывает</i></font> на <font color ="maroon">(-&infin;; 0]</font>, <font color ="maroon"><i>возрастает</i></font> на <font color ="maroon">[0; +&infin;)</font>; </p>   
+<p>6. Ограничена <font color ="maroon"><i>снизу</i></font>; </p>   
+<p>7. <font color ="maroon">у наим. = 0</font>,
+<br> у наиб., х наим. и х наиб. <font color ="maroon"><i>не существуют</i></font>; </p>   
+<p>8. <font color ="maroon"><i>Непрерывна</i></font> на всей области определения.</p> 

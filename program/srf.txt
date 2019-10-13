@@ -1,0 +1,16 @@
+
+<html> <h1><b> <font color ="blue"> Функция квадратного корня</b> </h1>  
+<p aling="justify"> 
+Функция квадратного корня – это функция, <br> которую можно задать  формулой </p>
+  <p align="center"> <font color ="blue"> <b>y = &radic;&macr;x </b> <font color ="black">.</p> 
+<br> 
+<p>Свойства функции <font color ="maroon"><b><i> y = &radic;&macr;x </i></b></font>:</p>    
+<p>1. D(f) = <font color ="maroon">[ 0; +&infin;)</font>; </p>   
+<p>2. E(f) = <font color ="maroon">[ 0; +&infin;)</font>, </p>   
+<p>3. Функция <font color ="maroon"> <i>ни чётная </i> </font>, <font color ="maroon"> <i>ни нечётная </i> </font>; </p>   
+<p>4. Нули функции: <font color ="maroon">y = 0</font> при <font color ="maroon">x = 0</font> ; </p>   
+<p>5. Монотонность: <font color ="maroon"><i>возрастает</i></font> на всей области определения; </p>   
+<p>6. Ограничена <font color ="maroon"><i>снизу</i></font>; </p>   
+<p>7. <font color ="maroon">x наим. = 0</font>, <font color ="maroon">у наим. = 0</font>,
+<br>у наиб. и х наиб. <font color ="maroon"><i>не существуют</i></font>; </p>   
+<p>8. <font color ="maroon"><i>Непрерывна</i></font> на всей области определения.</p> 
